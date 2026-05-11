@@ -4,7 +4,7 @@
 
 ## 🚀 Funcionalidades
 
-* O usuário digita um número
+* O usuário digita uma sequência de números
 * O programa soma todos so números até o usuário digitar o 0 (break)
 * Utiliza laço de repetição while e break para processamento
 
